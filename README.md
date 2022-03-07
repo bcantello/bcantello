@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcantello
 - 👀 I’m interested in building user centric websites and applications that are as intuitive as they are responsive.
-- 🌱 I’m currently learning GraphQl and Next.js.
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on interesting stuff.
 - 📫 How to reach me: bcantello@gmail.com
 
