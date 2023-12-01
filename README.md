@@ -25,8 +25,8 @@ My name is Brandon Cantello and I am currently working as a full-stack software 
 
 <div>
   <a href="https://github.com/bcantello">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcantello&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcantello&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcantello&layout=compact&langs_count=16&theme=vue-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcantello&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
   
