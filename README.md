@@ -1,6 +1,6 @@
 # Hello Interwebs
 
-My name is Brandon Cantello and I am currently working as a full-stack software engineer at Aiera. I'm always looking for something new to learn and am a stickler for clean and maintainable code. Feel free to connect with me here:
+My name is Brandon Cantello and I am currently working as a full-stack software engineer and product designer at Aiera. I'm always looking for something new to learn and am a stickler for clean and maintainable code. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-bcantello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-cantello/)](https://www.linkedin.com/in/brandon-cantello/)
 [![Gmail Badge](https://img.shields.io/badge/-bcantello@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcantello@gmail.com)](mailto:bcantello@gmail.com)
